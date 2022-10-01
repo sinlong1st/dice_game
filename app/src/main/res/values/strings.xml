@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">DiceGame</string>
+    <string name="instruction_title">Instruction:</string>
+    <string name="instruction_text">Click the \"Roll Dice\" button.</string>
+    <string name="first_instruction">Pick a number on dropdown menu and click on \"Roll Die\".</string>
+    <string name="second_instruction">Click the \"Restart\" button to play again.</string>
+    <string name="third_instruction">Click the \"Roll Dice\" button.</string>
+    <string name="computer">Computer</string>
+    <string name="button_roll_dice">Roll Dice</string>
+    <string name="player">Player</string>
+    <string name="button_roll_die">Roll Die</string>
+    <string name="winner_title">Winner:</string>
+    <string name="computer_wins">Computer!</string>
+    <string name="player_wins">Player!</string>
+    <string name="tie">Tie!</string>
+    <string name="button_restart">Restart</string>
+
+    <string-array name="left_dice_array">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+</resources>
